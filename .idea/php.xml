@@ -10,6 +10,7 @@
     <option name="highlightLevel" value="WARNING" />
     <option name="transferred" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
@@ -23,6 +24,11 @@
       <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" />
     </phpunit_settings>
   </component>
+=======
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+>>>>>>> 2f2eba662719db2d38654bfa486af8f093209f47
   <component name="PsalmOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>
